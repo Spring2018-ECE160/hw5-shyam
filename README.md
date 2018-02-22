@@ -1,8 +1,7 @@
-# ECE160 - HW#3
+# ECE160 - HW#5
 
-Due 02/08/18 at 11:59:59PM.  
+Due 02/24/18 at 11:59:59PM.  
 Late submissions are subject to a 10% late penalty.  
-**NOTE**: Question 6 is for HW#4. You may take a look at it and start thinking about it.
 
 ## Reading
 The C Programming Language, 2nd Edition - Kerninghan & Ritchie  
