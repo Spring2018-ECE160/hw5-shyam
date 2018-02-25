@@ -4,4 +4,10 @@
 
 Compile Steps:
 
-Output:
+Output: Cases to cover: 
+Year is less than 1;
+Month is either over 12 or under 1;
+Day is over 365 on non leap years and over 366 on leap years
+Day is under 1;
+
+

@@ -5,3 +5,9 @@
 Compile Steps:
 
 Output:
+Words: Baby, Driver
+BabyDriver
+Words: Pop, Tart
+PopTart
+Words: Professor, Hong
+ProfessorHong

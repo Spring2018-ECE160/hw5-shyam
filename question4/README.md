@@ -5,3 +5,15 @@
 Compile Steps:
 
 Output:
+Word: Dolphin
+Index:4
+Result: Dolp
+
+Word: Cat
+Index:3
+Result: Cat
+
+Word: Pegasus
+Index: 5
+Result: Pegas
+

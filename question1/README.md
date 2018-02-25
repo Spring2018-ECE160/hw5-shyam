@@ -4,3 +4,4 @@
 Compile Steps: 
 
 Output:
+The function still returns an integer.

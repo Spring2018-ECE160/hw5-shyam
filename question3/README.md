@@ -5,3 +5,9 @@
 Compile Steps:
 
 Output:
+Words: Potato, ato
+Match Value: 1
+Words: Something, lol
+Match Value: 0
+Words: Panther, ther
+Match Value: 1
